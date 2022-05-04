@@ -10,7 +10,8 @@
 ## and routes were created to delete an object using DELETE
 
 ### Here are videos of functionality: Had to make two because the video length was over five minutes.
-https://watch.screencastify.com/v/i57YW8v6Q8PZI30ojTmA
+https://watch.screencastify.com/v/i57YW8v6Q8PZI30ojTmA. 
+
 https://watch.screencastify.com/v/p0GEkDLSWQnCpv4SZ8dN
 
 ![Screenshot of application](e_commerce.png)
